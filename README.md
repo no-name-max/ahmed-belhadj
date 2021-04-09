@@ -30,6 +30,8 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+I am a Web Developer that focuses on front-end libraries and frameworks such as React. I have a passion for Design Systems, Web Accessibility and Serverless Technologies such as Amazon Web Services and Google Cloud. I focus on building intuitive user interfaces and RESTful APIs while ensuring the most optimal performance, scalability and code clarity.
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-belhadj&layout=compact&hide=makefile&theme=prussian" alt="Most used languages" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-belhadj&show_icons=true&count_private=true&hide=issues,contribs&theme=prussian" alt="GitHub stats" /></p>
